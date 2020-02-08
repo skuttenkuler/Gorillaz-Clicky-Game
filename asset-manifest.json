@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gorillaz-Clicky-Game/static/css/main.4a2a19d1.chunk.css",
+    "main.js": "/Gorillaz-Clicky-Game/static/js/main.254cfe3a.chunk.js",
+    "main.js.map": "/Gorillaz-Clicky-Game/static/js/main.254cfe3a.chunk.js.map",
+    "runtime-main.js": "/Gorillaz-Clicky-Game/static/js/runtime-main.90ca1626.js",
+    "runtime-main.js.map": "/Gorillaz-Clicky-Game/static/js/runtime-main.90ca1626.js.map",
+    "static/js/2.e495034b.chunk.js": "/Gorillaz-Clicky-Game/static/js/2.e495034b.chunk.js",
+    "static/js/2.e495034b.chunk.js.map": "/Gorillaz-Clicky-Game/static/js/2.e495034b.chunk.js.map",
+    "index.html": "/Gorillaz-Clicky-Game/index.html",
+    "precache-manifest.82c7b5c9cc2688b511a17b6998c78ef0.js": "/Gorillaz-Clicky-Game/precache-manifest.82c7b5c9cc2688b511a17b6998c78ef0.js",
+    "service-worker.js": "/Gorillaz-Clicky-Game/service-worker.js",
+    "static/css/main.4a2a19d1.chunk.css.map": "/Gorillaz-Clicky-Game/static/css/main.4a2a19d1.chunk.css.map",
+    "static/js/2.e495034b.chunk.js.LICENSE.txt": "/Gorillaz-Clicky-Game/static/js/2.e495034b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90ca1626.js",
+    "static/js/2.e495034b.chunk.js",
+    "static/css/main.4a2a19d1.chunk.css",
+    "static/js/main.254cfe3a.chunk.js"
+  ]
+}
