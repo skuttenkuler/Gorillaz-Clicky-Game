@@ -89,5 +89,5 @@ const Card = props => (
     - [LinkedIn](https://www.linkedin.com/in/skdev91)
 # Acknowledgments:
 
-     Thank you 2D, Murdock, Russel, Noodle, and Damon Albarn.
+     Thank you 2D, Murdock, Russel, Noodle, and Damon Albarn of Gorillaz.
 
