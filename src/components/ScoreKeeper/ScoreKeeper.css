@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Finger+Paint&display=swap');
+
+.cScore {
+    font-size: 2rem;
+    color: blue;
+}
+.hScore {
+    font-size: 2rem;
+    color: red;
+  
+}
+.highscore{
+    text-align: center;
+    background-color: rgba(74, 248, 127, .7);
+    border-radius: 50%;
+    height: 8rem;
+    
+}
+.murdockScore {
+    font-family: 'Finger Paint', cursive;
+    color: aliceblue;
+  }

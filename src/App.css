@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css?family=Finger+Paint&display=swap');
+body{
+  background-image:url('https://i.pinimg.com/originals/49/84/72/4984720e946988373fc4f961ecb2bcda.jpg') ;
+  background-size: cover no-repeat;
+}
+
+.row {
+    margin: 5rem 0 0 4rem;
+}
+.header{
+  font-family: 'Finger Paint', cursive;
+}
+.header > h1 {
+  font-size: 5rem;
+  color: aliceblue;
+}
+.header > p {
+  font-size: 2rem;
+  color: aliceblue;
+}
+.message {
+  color: aliceblue;
+  text-align: center;
+}
+.message > h3 {
+  font-family: 'Finger Paint', cursive;
+  font-size: 3.5rem;
+}
